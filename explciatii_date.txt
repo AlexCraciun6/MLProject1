@@ -1,0 +1,89 @@
+# Explicație Detaliată a Setului de Date Wine Quality
+
+## Caracteristici Chimice Fizice
+
+1. **Fixed Acidity (Aciditate Fixă)**
+   - Măsoară cantitatea totală de acizi neevoporați din vin
+   - Contribuie la gust și stabilitate
+   - Unitate de măsură: grame acid/decimetru cub
+   - Influențează echilibrul și persistența vinului
+
+2. **Volatile Acidity (Aciditate Volatilă)**
+   - Măsoară cantitatea de acizi care pot evapora ușor
+   - Indică potențialul de degradare sau contaminare
+   - Unitate de măsură: grame acid acetic/decimetru cub
+   - Valori mari pot sugera defecte de fabricație
+
+3. **Citric Acid (Acid Citric)**
+   - Acid natural care adaugă prospețime și aromă
+   - Influențează gustul și stabilitatea vinului
+   - Unitate de măsură: grame/decimetru cub
+   - Contribuie la senzația generală de prospețime
+
+4. **Residual Sugar (Zahăr Rezidual)**
+   - Zahărul rămas după fermentație
+   - Determină dulceața vinului
+   - Unitate de măsură: grame/decimetru cub
+   - Diferă semnificativ între vinurile dulci și sec
+
+## Componente Minerale și de Conservare
+
+5. **Chlorides (Cloruri)**
+   - Săruri minerale prezente în vin
+   - Influențează gustul și conductivitatea
+   - Unitate de măsură: grame de sodiu/decimetru cub
+   - Indică puritatea și originea vinului
+
+6. **Free Sulfur Dioxide (Dioxid de Sulf Liber)**
+   - Conservant și antioxidant
+   - Protejează vinul de oxidare și microorganisme
+   - Unitate de măsură: miligrame/decimetru cub
+   - Crucial pentru păstrarea calității vinului
+
+7. **Total Sulfur Dioxide (Dioxid de Sulf Total)**
+   - Suma tuturor compușilor de sulf
+   - Măsoară capacitatea totală de conservare
+   - Unitate de măsură: miligrame/decimetru cub
+   - Reglementat pentru siguranța consumatorului
+
+## Proprietăți Fizice
+
+8. **Density (Densitate)**
+   - Măsoară greutatea specifică a vinului
+   - Indică conținutul de zahăr și alcool
+   - Unitate de măsură: grame/mililitru
+   - Variază în funcție de compoziție
+
+9. **pH**
+   - Măsoară aciditatea sau basicitatea vinului
+   - Scară de la 0 la 14
+   - Influențează gust, stabilitate și culoare
+   - Valori între 3-4 sunt specifice vinurilor
+
+## Caracteristici Calitative
+
+10. **Sulphates (Sulfați)**
+    - Săruri minerale adăugate sau naturale
+    - Contribuie la conservare și aromă
+    - Unitate de măsură: grame potasiu/decimetru cub
+    - Influențează calitatea generală
+
+11. **Alcohol (Alcool)**
+    - Conținutul de alcool din vin
+    - Unitate de măsură: procent de volum
+    - Determină tăria și caracterul vinului
+    - Variază tipic între 8-15%
+
+## Clasificare și Calitate
+
+12. **Quality (Calitate)**
+    - Scor numeric între 3-9
+    - Bazat pe evaluări senzoriale profesioniste
+    - 3-4: Calitate slabă
+    - 5-6: Calitate medie
+    - 7-9: Calitate înaltă
+
+13. **Type (Tip)**
+    - Clasificare binară: roșu sau alb
+    - Determină caracteristicile specifice
+    - Diferă prin proces de producție și struguri
